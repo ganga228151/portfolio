@@ -11,6 +11,7 @@ export const Navbar = () => {
             <img src={image} alt="logo " />
           </div>
           <div>
+            
             <ul className="flex items-center justify-center gap-5 text-white">
               <li>
                 <a href="/">Home</a>
